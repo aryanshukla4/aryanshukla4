@@ -1,13 +1,31 @@
 <div align="center">
-  <h1>Hi there, I'm Aryan Shukla 👋</h1>
-  <a href="https://github.com/aryanshukla4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&background=0D1117&center=true&vcenter=true&width=600&lines=Python+%26+TypeScript+Developer;Building+Backend+APIs+with+FastAPI+%26+C%2B%2B;Crafting+Logic+Games,+AI+%26+EdTech+Platforms" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Hi%20there,%20I'm%20Aryan%20Shukla&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FastAPI%20%C2%B7%20Flask%20%C2%B7%20React%20%2F%20TypeScript&descAlignY=55&descSize=18" width="100%" alt="header" />
+
+<a href="https://github.com/aryanshukla4">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&background=0D1117&center=true&vcenter=true&width=650&lines=Building+full-stack+apps+with+FastAPI+%26+Flask;Shipping+React+%2B+TypeScript+frontends;Vernacular-first+platforms+%7C+secure+APIs+%7C+clean+UX" alt="Typing SVG" />
+</a>
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/aryan-shukla-4a2bb5331/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aryajsjskj123456789@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01f01cc3471c5ed440">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+</a>
+<a href="https://github.com/aryanshukla4">
+  <img src="https://komarev.com/ghpvc/?username=aryanshukla4&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+
 </div>
 
 <br />
 
-I'm a Full-Stack Developer specializing in high-performance backend systems, algorithmic utilities, and modern web applications. My focus lies at the intersection of systems engineering, scalable RESTful APIs, and specialized platforms (EdTech & AI tools).
+I'm a full-stack developer who builds secure, production-shaped backends and pairs them with clean React/TypeScript frontends — currently focused on API-first platforms with real auth, rate limiting, and deployment, not just prototypes. Below are the three projects I've made public so far.
 
 <br />
 
@@ -16,40 +34,82 @@ I'm a Full-Stack Developer specializing in high-performance backend systems, alg
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
 <br />
 
 ## 🚀 Featured Projects
 
-### ⚙️ Backend & Systems
-| 📁 Project | 📝 Description |
-| :--- | :--- |
-| **[fastapi](https://github.com/aryanshukla4/fastapi)** <br> `Python` `FastAPI` | High-performance RESTful API backend architecture and scalable microservices. |
-| **[mini-search-engine](https://github.com/aryanshukla4/mini-search-engine)** <br> `C++` | Fast indexing and search engine built from scratch using optimized C++ data structures. |
-| **[url-shortner](https://github.com/aryanshukla4/url-shortner)** <br> `Python` | Custom lightweight URL shortening utility app and redirect manager. |
+### 🌾 Bhasha Trade
+**Vernacular-first agriculture marketplace & advisory platform.**
 
-### 🧠 Algorithms & AI Utilities
-| 📁 Project | 📝 Description |
-| :--- | :--- |
-| **[sudoku](https://github.com/aryanshukla4/sudoku)** <br> `Python` | Interactive logic-based Sudoku game engine with a built-in algorithmic solver. |
-| **[ai_translator](https://github.com/aryanshukla4/ai_translator)** <br> `Python` | AI-driven multi-language text processing and accurate translation tool. |
+A full-stack platform connecting farmers to markets and advisory tools in their own language. FastAPI backend with HMAC-signed tokens and Redis-backed rate limiting, PostgreSQL in production, SQLite for local dev, fully Dockerized. React + TypeScript + Tailwind frontend on Vite.
 
-### 🎓 EdTech Platforms
-| 📁 Project | 📝 Description |
-| :--- | :--- |
-| **[MAT-Q & PROJECT_CE](https://github.com/aryanshukla4)** <br> `Python` | Comprehensive preparation and exam platforms engineered specifically for JEE/NEET candidates. |
+<a href="https://bhasha-trade.vercel.app/">
+  <img src=".github/assets/bhasha.png" alt="Bhasha Trade screenshot" width="800" />
+</a>
 
-### 🌐 Web Applications
-| 📁 Project | 📝 Description |
-| :--- | :--- |
-| **[bhasha-trade](https://github.com/aryanshukla4/bhasha-trade)** <br> `TypeScript` | Full-stack multilingual trading platform prioritizing seamless global user experiences. |
-| **[maganshu](https://github.com/aryanshukla4/maganshu)** <br> `Python` | Dedicated, clean-UI reader web application for exploring and tracking manga. |
-| **[weather-app](https://github.com/aryanshukla4/weather-app)** <br> `Python` | Live weather dashboard integrating third-party APIs for real-time conditions and forecasts. |
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<a href="https://bhasha-trade.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/aryanshukla4/bhasha-trade"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+### ☁️ Nimbus Weather App
+**Responsive weather dashboard powered by the OpenWeatherMap API.**
+
+Search by city or use browser geolocation for current conditions plus a 5-day forecast. Built with Flask, hardened with input validation, rate limiting and security headers, and includes its own visitor/search analytics dashboard.
+
+<a href="http://nimbus-weather-4vr4.onrender.com/">
+  <img src=".github/assets/nimbus.png" alt="Nimbus Weather App screenshot" width="800" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeatherMap_API-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+<a href="http://nimbus-weather-4vr4.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://github.com/aryanshukla4/weather-app"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+### 🔗 Slicr — URL Shortener
+**Full-stack URL shortener with real authentication, not just redirects.**
+
+Users register, sign in, and create time-limited short links. JWT access tokens paired with rotating, HttpOnly-cookie refresh tokens and Argon2id password hashing. FastAPI + PostgreSQL + SQLAlchemy/Alembic backend, React + Vite frontend.
+
+<a href="https://url-shortner-livid-chi.vercel.app/">
+  <img src=".github/assets/slicr.png" alt="Slicr URL Shortener screenshot" width="800" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<a href="https://url-shortner-livid-chi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/aryanshukla4/url-shortner"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br />
 
@@ -72,44 +132,6 @@ I'm a Full-Stack Developer specializing in high-performance backend systems, alg
   <img src="https://raw.githubusercontent.com/aryanshukla4/aryanshukla4/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<!-- 
-==================================================================
-🐍 HOW TO SET UP THE SNAKE ANIMATION ACTION:
-==================================================================
-1. In your `aryanshukla4` repository, create this file path:
-   `.github/workflows/snake.yml`
+<br />
 
-2. Paste the following YAML into the file:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch:    # Allows manual triggering
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aryanshukla4
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Commit the changes to your main branch.
-4. Go to Repo Settings -> Actions -> General -> Workflow Permissions.
-5. Select "Read and write permissions" and save.
-6. Go to the "Actions" tab, select "Generate Snake", and click "Run workflow".
-==================================================================
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" alt="footer" />
