@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Hi%20there,%20I'm%20Aryan%20Shukla&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FastAPI%20%C2%B7%20Flask%20%C2%B7%20React%20%2F%20TypeScript&descAlignY=55&descSize=18" width="100%" alt="header" />
+<img src=".github/assets/banner.svg" width="100%" alt="header" />
 
 <a href="https://github.com/aryanshukla4">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&background=0D1117&center=true&vcenter=true&width=650&lines=Building+full-stack+apps+with+FastAPI+%26+Flask;Shipping+React+%2B+TypeScript+frontends;Vernacular-first+platforms+%7C+secure+APIs+%7C+clean+UX" alt="Typing SVG" />
@@ -116,13 +116,10 @@ Users register, sign in, and create time-limited short links. JWT access tokens 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanshukla4&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshukla4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <img src="https://raw.githubusercontent.com/aryanshukla4/aryanshukla4/main/metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
-<br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshukla4&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
+
+<sub>Rendered by a scheduled GitHub Action (`.github/workflows/metrics.yml`) straight from this repo — no third-party site is queried when you view this page. It regenerates daily; the very first render shows up after the workflow's first run (check the **Actions** tab).</sub>
 
 <br />
 
@@ -134,4 +131,4 @@ Users register, sign in, and create time-limited short links. JWT access tokens 
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" alt="footer" />
+<img src=".github/assets/footer.svg" width="100%" alt="footer" />
